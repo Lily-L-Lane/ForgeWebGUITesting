@@ -1,0 +1,12 @@
+{
+  "name": "forgewebguitesting",
+  "version": "1.0.0",
+  "description": "This is used to test input from ardiuno into a potential web app using react. This particular app is not react, it is a js web app, but is just a testing ground.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
